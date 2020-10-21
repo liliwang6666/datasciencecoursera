@@ -1,19 +1,16 @@
 ---
 title: "HelloWorld.md"
-author: "Lili"
-date: "2020年5月28日"
+author: "Lili Wang"
+date: "2020年10月21日"
 output: word_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-gherhgargarg
+## This is a markdown file
 
 ## R Markdown
-
-
-## This is a markdown file
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
